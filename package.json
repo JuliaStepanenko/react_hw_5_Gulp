@@ -1,0 +1,15 @@
+{
+  "name": "react_hw_5_gulp",
+  "version": "1.0.0",
+  "description": "Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
